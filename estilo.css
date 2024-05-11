@@ -1,0 +1,14 @@
+*{
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+:root{
+    --fonte-primaria:"Roboto Slab", serif;
+}
+
+main{
+    background-image: radial-gradient(circle, rgba(206,153,255,1) 0%, rgba(51,10,120,1) 100%);
+}
